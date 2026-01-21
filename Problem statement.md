@@ -39,16 +39,6 @@ $$
 
 ---
 
-### (c)
-One definition of an ellipse is
-$$
-r = \frac{ak}{1 + e \cos\theta}.
-$$
-Find the eccentricity $e$ in terms of $\|\vec{A}\|$ and relevant constants.
-
-
----
-
 ## (c)
 One definition of an ellipse is the set of points that satisfy
 $$
