@@ -1,33 +1,5 @@
 # Problem Asset – Orbital Mechanics (Laplace–Runge–Lenz Vector)
 
-In Newtonian mechanics, for a particle of negligible mass orbiting a massive body
-in an ellipse under Newtonian gravity, you may assume without proof that the vector
-
-$$
-\vec{A} = \vec{p} \times \vec{L} - GMm^2 \hat{r}
-$$
-
-is conserved.
-
-Here,
-- $\vec{p}$ is the particle's momentum,
-- $\vec{L}$ is its angular momentum about the massive body,
-- $m$ is the particle's mass,
-- $G$ is Newton's gravitational constant,
-- $M$ is the mass of the massive body,
-- $\hat{r}$ is a unit vector pointing from the massive body to the particle.
-
----
-
-## (a)
-If the direction of the semi-major axis of the orbit is $\hat{x}$, the semi-minor axis is $\hat{y}$, and the orbit lies in the $xy$-plane (so $\hat{z}$ is perpendicular to the orbital plane), find the direction of $\vec{A}$.
-
-Assume that the massive body has a lower $x$-coordinate than the other focus of the ellipse.
-
----
-
-# Problem Asset – Orbital Mechanics
-
 ## Problem Statement
 
 In Newtonian mechanics, for a particle of negligible mass orbiting a massive body
