@@ -16,7 +16,8 @@ Using this property, we analyze the geometry of elliptical orbits.
 
 ## Contents
 - `solution.md`: detailed mathematical and physical solution
-- [Problem Statement](https://github.com/jeffersonmonkam/Physics-Project/blob/main/problemasset.md)
+- [Problem Statement](Problem%20statement.md)
+
 
 
 
