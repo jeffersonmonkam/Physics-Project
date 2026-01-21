@@ -16,7 +16,8 @@ Using this property, we analyze the geometry of elliptical orbits.
 
 ## Contents
 - `solution.md`: detailed mathematical and physical solution
-- `images/` (optional): diagrams used in the analysis
+- `problem statement.md`: full problem statement
+
 
 ## Context
 This project was completed as part of a physics course on classical mechanics
