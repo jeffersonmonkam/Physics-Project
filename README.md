@@ -15,8 +15,9 @@ Using this property, we analyze the geometry of elliptical orbits.
 - Use this result to find the eccentricity of the orbit
 
 ## Contents
-- `solution.md`: detailed mathematical and physical solution
 - [Problem Statement](Problem%20statement.md)
+- [Solution](solution.md)
+
 
 
 
